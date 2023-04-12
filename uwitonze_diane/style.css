@@ -1,0 +1,30 @@
+h3{
+	color: blue;
+}
+.home{
+	color: pink;
+	font-weight:bold;
+	width: 120px;
+    background-color: pink;
+    margin-left: 300px;
+    border-radius: 3000%;
+    width: 150px;
+    height: 150px;
+
+}
+.diane{
+	margin-right: 200px;
+	margin-top: -234px;
+	color: pink;
+	  height: 90px;
+    width: 90px;
+    border-radius: 50%;
+}
+.title{
+	margin-top: -150px;
+	align-items: center;
+	margin-left: 600px;
+    color: blue;
+    border-radius: 400%
+
+}
